@@ -1,0 +1,6 @@
+I:\Workspace\Visual Studio\WindowsPrinterAPI\bin\Debug\WindowsPrinterAPI.dll
+I:\Workspace\Visual Studio\WindowsPrinterAPI\bin\Debug\WindowsPrinterAPI.pdb
+I:\Workspace\Visual Studio\WindowsPrinterAPI\bin\Debug\PdfiumViewer.dll
+I:\Workspace\Visual Studio\WindowsPrinterAPI\obj\Debug\WindowsPrinterAPI.csproj.CopyComplete
+I:\Workspace\Visual Studio\WindowsPrinterAPI\obj\Debug\WindowsPrinterAPI.dll
+I:\Workspace\Visual Studio\WindowsPrinterAPI\obj\Debug\WindowsPrinterAPI.pdb
